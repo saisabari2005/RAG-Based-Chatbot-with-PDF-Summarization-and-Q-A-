@@ -92,4 +92,3 @@ A **Retrieval-Augmented Generation (RAG) chatbot** that can summarize PDFs and a
 
 This project is licensed under the MIT License
 
-Add a GIF or video showing PDF summarization and question-answering in action.
